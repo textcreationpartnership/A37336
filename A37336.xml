@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration by severall Congregationall societies in and about the city of London in way of vindication of themselves touching 1. liberty, 2. magistracy, 3. propriety, 4. polygamie : wherein their judgement concerning the particulars mentioned are tendred to consideration to prevent mis-understanding.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37336</idno>
+            <idno type="STC">Wing D562A</idno>
+            <idno type="STC">ESTC R26679</idno>
+            <idno type="EEBO-CITATION">09523456</idno>
+            <idno type="OCLC">ocm 09523456</idno>
+            <idno type="VID">43452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43452)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1329:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration by severall Congregationall societies in and about the city of London in way of vindication of themselves touching 1. liberty, 2. magistracy, 3. propriety, 4. polygamie : wherein their judgement concerning the particulars mentioned are tendred to consideration to prevent mis-understanding.</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matt. Simmons,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Apologetic works.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43452:1"/>
+            <pb facs="tcp:43452:1" rendition="simple:additions"/>
+            <p>A DECLARATION BY Severall Congregationall Societies in, and about the City of LONDON.</p>
+            <p>In way of <hi>Vindication</hi> of themſelves.</p>
+            <p>TOUCHING</p>
+            <list>
+               <item>1. Liberty.</item>
+               <item>2. Magiſtracy.</item>
+               <item>3. Propriety.</item>
+               <item>4. Polygamie.</item>
+            </list>
+            <p>WHEREIN Their Judgement, concerning the particulars men<g ref="char:EOLhyphen"/>tioned are tendred to conſideration, to prevent miſ-underſtandings.</p>
+            <q>
+               <bibl>1 COR. 9. 3.</bibl>
+My anſwer to them that examine mee is this.</q>
+            <q>
+               <bibl>PSAL. 35. 11.</bibl>
+Falſe witneſſes did riſe up: they layed to my charge things that I knew not.</q>
+            <p>Printed by <hi>Matth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Simmons</hi> in the yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43452:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:43452:2"/>
+            <head>A DECLARATION BY THE Severall Congregationall Socie<g ref="char:EOLhyphen"/>ties in, and about the City of LONDON.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is no new thing for the people of God, to be through malice miſ-repreſented by ſome, and through weakneſſe miſ-apprehended by others, as touching the principles of their profeſſion, and o<g ref="char:EOLhyphen"/>pinions about matters of Religion. And it can<g ref="char:EOLhyphen"/>not be denyed, but that the erroneous opinions and irregular practices of ſome particular perſons making profeſſi<g ref="char:EOLhyphen"/>on of the ſame way, and paſſing under the ſame denomination with the ſervants of God themſelves, have from time to time mini<g ref="char:EOLhyphen"/>ſtred occaſion to the ignorant and weake to miſ-conceive, and op<g ref="char:EOLhyphen"/>portunity and advantage to the malicious to miſhape the ſtate and temper of the judgments and wayes of the generality of people fea<g ref="char:EOLhyphen"/>ring God, and <hi>walking before him in truth with all their hearts.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:43452:3"/>And in as much as we finde it in theſe our dayes to be the policie of adverſaries, to cloath us in the skins of Savage beaſts, that is, to father ſuch opinions, and faſten ſuch imputations upon us to engage the world againſt us, and to provoke all men to fall upon us, as, in which if there were matter of truth anſwerable to pre<g ref="char:EOLhyphen"/>tence, would indeed render us unworthy the ſociety of men. And for as much alſo as there are ſome ſad examples in the Land, of the vanity and wickedneſſe of ſomemen, who, having profeſſed the ſame way of worſhiping God, &amp; been called by the ſame name with our ſelves, have ſo farre fallen from the grace of God and the princi<g ref="char:EOLhyphen"/>ples of their profeſſion, as not onely to doe things inconvenient and unworthy the name of Chriſtians, yea of men, but alſo to juſtifie themſelves therein as well-doers, to the great reproach of the Goſ<g ref="char:EOLhyphen"/>pell, the breaking of our hearts, and the offence of the world be<g ref="char:EOLhyphen"/>fore whom they have laid <hi>the ſtumbling blocke of their iniquity;</hi> 'wee cannot but judge, that, both in relation to the Goſpell it ſelfe, (the honour of which is in great part involved in the innocency and ho<g ref="char:EOLhyphen"/>nour of thoſe people that hold it out unto the world, and accor<g ref="char:EOLhyphen"/>dingly ſuffers in their reproaches) as likewiſe in relation to men of the world, ſtrangers to God, who harden themſelves againſt the way of God and his ſervants upon the fore-mentioned occaſion (the undeceiving and enlightning of whom lyes upon us as a duty to be endeavoured:) yea and in relation to our owne innocency and integrity, the which we are bound to vindicate on this be<g ref="char:EOLhyphen"/>halfe:) a neceſſity lyes upon us to doe ſome act, by which the truth and reallity of our judgements and principles touching theſe things, wherein we ſo undeſervedly ſuffer in the thoughts of men, may be brought out into an open light, to be beheld and known of all men; which then (we doubt not) will be found to bee no<g ref="char:EOLhyphen"/>thing leſſe, then what many have fancied them to be.</p>
+            <p>We are very ſenſible that ſome men have even filled the world with the noyſe of their out-cryes againſt us, as if wee were the ad<g ref="char:EOLhyphen"/>vocates of all licentious liberty, diſorder and confuſion; but, how unjuſtly, will one day appeare to their ſhame.</p>
+            <div type="part">
+               <p>
+                  <note place="margin">What li<g ref="char:EOLhyphen"/>berty is pleaded for.</note>It is true, we have aſſerted that as belonging unto men, which in ſome reſpect and conſideration may be called, a <hi>liberty.</hi> But what <hi>liberty?</hi> Not a <hi>liberty</hi> to harme any man in word or deed:
+<pb facs="tcp:43452:3"/>
+nor a <hi>liberty</hi> for any man to be corrupt, vaine, looſe or inordi<g ref="char:EOLhyphen"/>ate in judgement, or converſation: for ſuch a <hi>liberty</hi> as this can doe no man good. And God that knowes our hearts knowes that we deſire not any <hi>liberty</hi> for any, but in order to the good of all.</p>
+               <p>But this is the <hi>liberty</hi> for which wee have appeared, <hi>viz.</hi> That while men behave themſelves peaceably and juſtly as touching ci<g ref="char:EOLhyphen"/>vill converſation, making no incroachments upon the civill pow<g ref="char:EOLhyphen"/>er, nor any breaches upon the names and reputations, the eſtates or bodies of men; they might not ſuffer in their names, bodies, or eſtates from the hands of the Civill Magiſtrate, or any other men whatſoever, meerly for ſuch things as appertaine to the wor<g ref="char:EOLhyphen"/>ſhip of their God.</p>
+               <p>It is true, there are offences and miſcarriages of men in matters of Religion, and things purely relating to Gods Kingdome, which we doe not at all exempt from correction, provided it be by a pow<g ref="char:EOLhyphen"/>er and meanes ſuitable to the nature of ſuch offences, which are ſpirituall and not about things of this world; but wee conceive withall that it doth not appertaine to the Civill Magiſtrate, ſo to engage his Magiſtratieall power againſt them, as to inflict a worldly or corporall puniſhment on men becauſe of them. <note n="a" place="margin">Joh. 18. 36</note> 
+                  <hi>For the Kingdome of God being not of this world</hi> (as the great Law giver himſelfe doth avouch) doubtleſſe it is as improper for ſuch a pow<g ref="char:EOLhyphen"/>er which is but ſecular, and whoſe utmoſt bounds and adequate object are (as wee conceive) the Civill affaires of men, to inter<g ref="char:EOLhyphen"/>medle or umpire authoritatively in the affaires of Gods Kingdome, either by giving Lawes, or puniſhing offences therein, as it is for a King of one Kingdom by way of authority, to order affaires in another Kings Dominions. And as the Kingdome of God is Spiri<g ref="char:EOLhyphen"/>tuall, and the affairs and concernments thereof ſpirituall, (and not ſuch as are <hi>meates and drinkes</hi> and other like accommodations for the body <note n="b" place="margin">Rom. 14. 17.</note>) ſo thoſe inſtruments and that power, <hi>viz.</hi> the word of God and Divine Cenſures, by which the things thereof are or<g ref="char:EOLhyphen"/>dered, are ſpirituall alſo.<note place="margin">2 Cor. 10. 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>And as theſe inſtruments and meanes are ſpirituall in their na<g ref="char:EOLhyphen"/>tures,
+<pb n="4" facs="tcp:43452:4"/>
+ſo are they mighty in their power, being able through God, (who hath appointed them) <hi>to pull downe ſtrong holds, to caſt downe imaginations, and every high thing that exalts it ſelfe a<g ref="char:EOLhyphen"/>gainſt the knowledge of God, and to bring into captivity every thought to the obedience of Chriſt, and to revenge all diſobedience, &amp;c.</hi> 
+                  <note place="margin">Cor. 10. 4, 5, 6.</note>
+               </p>
+               <p>But the Civill power being in its nature onely ſuch as it is in de<g ref="char:EOLhyphen"/>nomination, <hi>viz.</hi> ſecular: that is, the nature and conſtitution of it being worldly;<note place="margin">1 Pet. 2. 13.</note> the direct and proper operations and effects of it are not like to be ſpirituall. For <hi>That which is borne of the Spi<g ref="char:EOLhyphen"/>rit is Spirit, and that which is borne of the fleſh is fleſh.</hi>
+                  <note place="margin">Joh.3. 0.</note> That is, it is but fleſh; of a nature and condition anſwering its cauſe produ<g ref="char:EOLhyphen"/>cing it: And therefore the innate and intrinſicall property of the powers and authorities of this world being terrene, and calcula<g ref="char:EOLhyphen"/>ted for the affaires thereof; we conceive they are not to act, but within their owne proper Spheare: or if they ſhall attempt to doe otherwiſe, miſcarriage and diſappointment in the undertaking is the beſt that can rationally be expected.</p>
+               <p>Beſides, if God hath made thoſe inſtruments and meanes which are ſpirituall, able and ſufficient to cure thoſe diſtempers in men which are of a ſpirituall nature, and offenſive onely againſt a ſpi<g ref="char:EOLhyphen"/>rituall power and ſtate; why ſhould wee thinke that he ſhould inſtitute any other kind of meanes, ſuch as is the ſecular power, for the ſame end? for when once God hath found one kind of meanes fit for his hand to accompliſh his end by, he is not wont to conſtitute another for the ſame purpoſe. Upon which Principle of truh the Apoſtle builds a great aſſertion, accompanied with an aſſeveration; <hi>for</hi> (ſaith he) <hi>if there had been a Law given, which could have given life, verily Righteouſneſſe ſhould have been by the Law</hi> 
+                  <note n="f" place="margin">Gal.3.21.</note>. If the Law had been given by God for that end, that men might be juſtified by it, he would then never have inſtituted another way and meanes, ſuch as is that which is by faith, for the ſame purpoſe. And there<g ref="char:EOLhyphen"/>fore we conceive, that we may with the ſame raeſon and truth aſ<g ref="char:EOLhyphen"/>ſert; that if God hath inſtituted and made a ſpirituall power, and ſpirituall Engines and Inſtruments, effectuall for all ſpirituall purpoſes, (the affirmative whereof is before proved,) then he hath not ſuperadded another power, and meanes, and that of an inſe<g ref="char:EOLhyphen"/>riour
+<pb n="5" facs="tcp:43452:4"/>
+nature, ſuch as is that which is but ſecular, for the ſame end.</p>
+               <p>How ever God being at liberty, doth in his providence ſome<g ref="char:EOLhyphen"/>times make uſe of other meanes, ſuch as are afflictions, &amp;c. together with his ſpiritual inſtitutions for the production of ſpirituall effects: yet confident we are, that he hath confined men to inſtituted rules onely, for the promotion of ſpirituall things appertaining to ſpi<g ref="char:EOLhyphen"/>rituall and inſtituted worſhip.</p>
+               <p>But as the Apoſtles, when they preached the Doctrine of juſti<g ref="char:EOLhyphen"/>fication by faith alone, excluding the workes of the Law, as ha<g ref="char:EOLhyphen"/>ving no part nor fellowſhip in that matter; were cryed out upon as deſtroyers of the Law, though in other reſpects, and ſuch as were proper to the Law, they were the great aſſertors of it: even ſo while we doe but goe about by way of debate and argument, to keepe and preſerve the Civill power within its due and proper bounds, diſtinct, and unconfounded with that power which is quite of another nature; we are exclaimed againſt by ſome (who have the boldneſſe to affirme, or the weakneſſe to beleeve) as if wee were enemies to all Magiſtracy and Government, and as if wee intended to throw downe thoſe hedges that are ſet about mens eſtates, and to lay both the one and the o<g ref="char:EOLhyphen"/>ther common: Though the truth is, wee have been, and reſolve to be as faithfull aſſertors, and zealous maintainers, to our power, both of Magiſtracy, and juſt Government, and of the Liberty of mens perſons, and propriety of their eſtates, (to ſpeake without vanitie) as any other men whoſoever.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Magiſtra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> neceſſary</note> And therefore wee declare in the firſt place, That man beingfallen from that uprightneſſe and perfection, in which at firſt he was created, and being now ſo farre from being commanded by principles of love, goodneſſe, meekneſſe; mercy, ſobriety, and equity, as that hee is filled with luſtfull inclinations, and diſpo<g ref="char:EOLhyphen"/>ſitions to <hi>Fornication, Adultery, drunkenneſſe, extortion, fraud, re<g ref="char:EOLhyphen"/>viling, theft, murder; witchcraft, perjurie, and to defile himſelfe with man-kind,</hi> together with many other lamentable diſtempers, unto
+<pb n="8" facs="tcp:43452:5"/>
+the truth wherof both the word of God, and daily experience will abundantly witneſſe? Wee cannot but apprehend an abſolute ne<g ref="char:EOLhyphen"/>ceſſity, both of Governours, and Government, to bridle and reſtraine men from falling <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oule one upon another, and from do<g ref="char:EOLhyphen"/>ing things deſtructive, not onely to the honour, and rights, but even to the ſafety and beings of others. Eor whilſt thoſe noyſome<note place="margin">1 Tim. 1. 9, 10.</note> luſts doe rage, and raigne in men; what other thing can be Ima<g ref="char:EOLhyphen"/>gined ſufficient to guard the perſons, the honour and eſtates of men from ſuffering violence, but the ſword of the Magiſtrate? And therefore, looke what neceſſitie there is for men to enjoy themſelves in ſafety, and honour, the ſame neceſſity there is of Lawes and Governours.</p>
+               <p>And as Magiſtracy and government in generall is <hi>the Ordi<g ref="char:EOLhyphen"/>nance of God,</hi> which he in love to the world hath appointed for the good of men.<note place="margin">Rom. 13. 1, 2. 4.</note>
+               </p>
+               <p>2. And as we doe not diſapprove any forme of Civill govern<g ref="char:EOLhyphen"/>ment which hath a direct tendancie and ſubordination to its pro<g ref="char:EOLhyphen"/>per end; ſo we doe freely acknowledge, that a Kingly government, bounded by juſt and wholſome Lawes, is both allowed by God,<note place="margin">Pet. 2. 3, 14.</note> and a good accommodation unto men.</p>
+               <p>3. And however it be a thing very deſirable to have ſuch to bee<note place="margin">Sam. 23. 3.</note> governours, as feare the Lord, in as much as together with their morall principles, they are under the ſolemne engagement of Chri<g ref="char:EOLhyphen"/>ſtianity to execute Judgement and Juſtice, and faithfully to diſ<g ref="char:EOLhyphen"/>charge their truſt; and will be more readie to protect godly men (who generally are the hatred of world) and to propagate the Goſpell in their territories, then other men will be: ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whatever the Magiſtrate is, in point of Religion, he is to be reverenced and obeyed in all thoſe commands of his, which doe not intrench up<g ref="char:EOLhyphen"/>on, or riſe up in oppoſition to the commands of God, or fall croſſe to the common intereſt of men, the maintenace whereof is his, and in his charge.</p>
+               <p>
+                  <pb n="7" facs="tcp:43452:5"/>And in as much as variety of actions, and unanimity in en<g ref="char:EOLhyphen"/>deavours, are neceſſary in the management of publique affaires, And ſince every man is not a like qualified for the ſame acti<g ref="char:EOLhyphen"/>on, nor hath that diſcretion and propenſion of his owne ac<g ref="char:EOLhyphen"/>cord to fall into that place which is moſt proper for him; and ſince alſo there is ſo much darkneſſe remaining in the mindes of men, as to make them ſubject to call evill, good, and good, evill<g ref="char:punc">▪</g> and ſo much pride in their hearts, as to make their owne wills a Law not unto themſelves onely, but unto others alſo; it cannot but be very prejudiciall to humane ſociety, and the promotion of the good of Commonwealths, Cities, Armies, or families, to admit of a parity, or all to be equall in power. Becauſe there being (in this caſe) a Liberty for every man to follow the dictates of his own underſtanding, and to act as he pleaſeth in reference to the Publique, what can be expected but diſorders, confuſions, jealouſies, factions, yea Civill warres themſelves? For as mens appreheſinons of the common inte<g ref="char:EOLhyphen"/>reſt, but eſpecially their opinions of the conducibleneſſe of means thereunto, are (almoſt infinitely) various, and contra<g ref="char:EOLhyphen"/>dictious to each other: ſo is it naturall for them to indulge their owne opinions, and violently to purſue, even unto blood, their own meanes, which ſeeme only to themſelves to be ſuch; and that in oppoſition to thoſe means, which in the eye of wi<g ref="char:EOLhyphen"/>ſer men, and in themſelves, are ſuch, indeed. And therfore we cannot but conclude, that the ranging of men into ſeverall and ſubordinate ranks and degrees, is a thing neceſſary for the common good of men, as being the onely meanes to re<g ref="char:EOLhyphen"/>move obſtructions, and to preſerve order, and agreement in all agitations tending thereunto.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Of Pro<g ref="char:EOLhyphen"/>priety.</note>Touching propriety wee further declare, that however the wants and neceſſities of men, are a call from God to thoſe that have where withall in their hands to miniſter to them and re<g ref="char:EOLhyphen"/>lieve them in their need; and that where the love of God dwels richly in the ſoule it cloth enlarge the heart of men in compaſ<g ref="char:EOLhyphen"/>ſion, and their hands in bounty towards their brethren in di<g ref="char:EOLhyphen"/>ſtreſſe, who are as <hi>their owne fleſh,</hi> yet certainly, for any man to urge ſuch a community amongſt men in the good things of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his life as neceſſary, which diſſolves mens propriety in them;
+<pb n="8" facs="tcp:43452:6"/>
+is not only a cutting off from men one of thoſe gracious op<g ref="char:EOLhyphen"/>portunities which God hath put into their hands of expreſſing the good worke of God upon their hearts, and of diſplaying the power and glory of his grace, but it is alſo, a rendering the Scriptures (the honour and authority whereof, is more deare and precious to us then our lives.) in many places, to bee but ſo many words written in vaine. For men by refreſhing the bowells of the hungry, cloathing the naked, harbouring the ſtranger, &amp;c. doe not only declare, that the <hi>love of God dwells in them;</hi> 
+                  <note n="k" place="margin">1 John 3. 17.</note> that is, a benevolent diſpoſition towards men in miſe<g ref="char:EOLhyphen"/>ry, anſwering that tender, compa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ionate and bountifull diſpo<g ref="char:EOLhyphen"/>ſition that is in God towards miſerable men, but they doe God hereby an eſpeciall ſervice in relieving ſuch, the care, and maintenance of whom, he hath peculiarly taken upon himſelfe. In which reſpects among<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t others, that ſaying of our Savi<g ref="char:EOLhyphen"/>our is verified, <hi>It is a more bleſſed thing to give than to receive, m.</hi>
+                  <note place="margin">Act 20. 35</note> But if all things were common unto all, there would be no place left for any ſuch difference as is between giving and re<g ref="char:EOLhyphen"/>ceiving, or if there were, both the one and the other would turne to the ſame account. But what ever account other men make of ſuch opportunities by which they may at once both bleſſe the world, and bleſſe themſelves, comfort men and pleaſe God, expreſſe the grace of God to others, and en<g ref="char:EOLhyphen"/>dear it to themſelves<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> certainly, they are, and ought to be pre<g ref="char:EOLhyphen"/>cious in our eyes: and therefore that opinion which would ad<g ref="char:EOLhyphen"/>null them, cannot but bee caſt out of our judgements and thoughts as an unclean thing.</p>
+               <p>And when that Commandment (for ſo it is interpretatively) went forth unto Chriſtian men, <hi>to provide for their own, eſpecially thoſe of their own houſholds;</hi> for that end amongſt others; that <hi>the Church might not be burdened with them.</hi> 
+                  <note n="o" place="margin">1 Tim. 5 8, 16.</note> Undoubtedly, either there was a difference between the Churches ſtocke and that which particular perſons did poſſeſſe, or elſe the Apoſtle muſt needs ſpeak very impertinently, the later of which to aſſert, were to blaſpheme that Spirit by which he wrote.</p>
+               <p>When <hi>Solemon</hi> ſaith, <hi>The diligent hand maketh rich,</hi> 
+                  <note n="p" place="margin">Prov. 10 24.</note> and <hi>drowſi<g ref="char:EOLhyphen"/>neſſe ſhall cloathe a man with ragges;</hi> 
+                  <note n="q" place="margin">Prov. 23. 21.</note> queſtionleſſe his Proverbe was more than Paradox, if both the diligent and ſlothfull were to inherit an equal portion.</p>
+               <p>
+                  <pb n="9" facs="tcp:43452:6"/>In a word, if this conceit of community ſhould ſtand, the difference between poore and rich, borrowing and lending, buying and ſelling, communicating and receiving, would all fall; upon the foundation of which notwithſtanding, God hath built many injunctions of duty unto men.</p>
+               <p>And as for that inſtance and example of thoſe Primitive Chri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tians, amongſt whom it is ſaid, that <hi>all things were common,</hi> 
+                  <note n="r" place="margin">Acts 2. 34.</note> and <hi>that not any man ſaid, that the things which he poſſeſſed were his own,</hi> 
+                  <note n="ſ" place="margin">Acts 4. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</note> it is (as wee conceive) to bee underſtood thus, The ſenſe of that bleſſedneſſe which was come upon them by the be<g ref="char:EOLhyphen"/>liefe of the joyfull meſſage of ſalvation, preached to them, was ſo great, vigorous and ſtrong, and did ſo dilate and enlarge their hearts in good will both towards God and Man, that the good things of this world which they poſſeſſed were very little eſteemed by them: and therefore they parted with them as freely to their brethren that had need, as men uſe to part with thoſe things which are not their own<g ref="char:punc">▪</g> their parti<g ref="char:EOLhyphen"/>cular propriety and intere<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in them, was not ſo conſidered and inſiſted on, as any wiſe to binde their hands from diſperſing or ſcattering abroad, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of that love and g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat con<g ref="char:EOLhyphen"/>tent under which they then were. And if more of this temper of heart, and bounty of hand were in the world, than now is to be found amongſt us, it were not a thing t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be declared againſt, but to be rejoyced at by Chriſtians. But though theſe Chriſtians acted ſo, as if they had had no inter<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, or pro<g ref="char:EOLhyphen"/>priety in their Eſtates, yet certainly a propriety they had, nor was this propriety diſſolved me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rly by their becomming Chri<g ref="char:EOLhyphen"/>ſtians, as appeares plainly by what was ſpoken by the Apoſtle <hi>Peter</hi> to <hi>Ananias,</hi> who was in pretence one of thoſe bountifull Benefactours afore mentioned.</p>
+               <p>For the Apoſtle in reproving him for his di<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>mulation, in pretending to dedicate to common uſe the whole price of his poſſeſſion, being ſold, when as hee reſerved part thereof unto himſelfe: ſaith thus unto him, <hi>Whilest it remained, was it not thine own? And after it was ſold, was it not in thine owne power?</hi> By which double interrogation the Apoſtle doth emphatically<note place="margin">
+                     <hi>t</hi> Acts 5. 4.</note> grant and affirme a particular and diſtinct right which hee, and ſo conſequently thoſe other Benefactors had to their poſ<g ref="char:EOLhyphen"/>ſeſſions,
+<pb n="10" facs="tcp:43452:7"/>
+both before they had ſold them and after, unleſſe they had paſſed the ſame away by a voluntary act of donation or free gift.</p>
+               <p>If therefore God hath built up a wall of ſeperation between the eſtates of men and men, the affirmative whereof ſufficiently appeares by many acts of his will, then farre be it from us who profeſſe our ſelves to be his ſervants, that we ſhould indevour to throw it downe.</p>
+               <p>And in as much as thoſe Apoſtolicall Churches themſelves recorded in the Scriptures, in which the glory and power of the Goſpell ruled, were not altogether free from ſuch perſons as <hi>turned the grace of God into wantonneſſe,</hi> 
+                  <note n="u" place="margin">Jude 2.</note> and that abuſed their liberty in the Goſpell to the gratifying of the fleſh, <note n="w" place="margin">Gal 5. 13.</note> we cannot promiſe the world that they ſhall never finde any ſuch amongſt us. For whilſt there are temptations without and corruptions within that expoſe men to the danger of falling and that all men that profeſſe ſtrictneſſe in Religion are not ſo vigilent and wiſe as to ſtand upon their guard, it cannot bee <hi>but that offences will come.</hi> 
+                  <note n="x" place="margin">Mat. 18. 7.</note>
+               </p>
+               <p>And though ſome who are willing to picke a quarrell with Religious men, if elevated above the ſphere of their owne acti<g ref="char:EOLhyphen"/>vity, and are glad when they meet with any thing in their lives and wayes as will comport with, and ſmile upon that evill opinion they have of them: Yet we could wiſh, that all who pretend to wiſdome, ingenuity and honeſty, would not be ſo injurious to God and Religion, as to charge perſonall and par<g ref="char:EOLhyphen"/>ticular errors and practices, ſuch as ſavour of the fleſh, and tend to obſcure and darken the beauty of holineſſe, either upon the Generallity of the ſervants of God, or upon the grounds and principles of their profeſſion, but that they would put ſuch a difference herein, as becomes men of ſobriety and truth, to doe.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">Of Poly<g ref="char:EOLhyphen"/>gamie.</note>And therefore, if any ſcurrilous perſons ſhall of purpoſe to blemiſh Religion, and to make themſelves glad with lyes, give it out as if we intended to inlarge and extend wedlock by Law eſtabliſhed in this Land (in which proviſion is made that no man ſhall have above one wife at one time) beyond its due limits or that we gave any quarter in our judgments to ſuch an
+<pb n="11" facs="tcp:43452:7"/>
+opinion, as favors plurality of wives: or if any who have been looked upon as profeſſors of religion have ſo fearfully <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alne as to break through bounds not only of Religion, but alſo of mo<g ref="char:EOLhyphen"/>rality, and to defile themſelves with thoſe that are not their wives, &amp; to cover their ſhame ſhal go about to plead the lawful<g ref="char:EOLhyphen"/>nes of polygamy; we earneſtly deſire, that all men may do both us &amp; that way of Religion which we profeſs in the world that right, as not in the leaſt to charge either the one or the other therewith, as if we were any patrons thereof. For we do with great zeale and deteſtation of ſoule declare and proteſt againſt the folly and filthineſſe of ſuch perſons, and of any ſuch opi<g ref="char:EOLhyphen"/>nion as is that now laſt mentioned, as being contrary to the Scriptures of truth.</p>
+               <p>For though <hi>God, having the reſidue of the Spirit,</hi> could in the day of creation as eaſily have made more women then that one which he did create for one man (as the Prophet <hi>Malachy</hi> obſerves,) <note n="y" place="margin">Mal. 2. 15.</note> yet his pleaſure was to make but one, to the end there might <hi>be a godly ſeed, or a ſeed of God,</hi> that is, a ſeed propa<g ref="char:EOLhyphen"/>gated according to Gods inſtitution and appointment.</p>
+               <p>And therefore our Saviour referring to the firſt inſtitution of marriage for correction of ſome corruptions and abuſes of men about marriage, ſaith, <hi>Have yee not read, that hee which made them at the beginning, made them male and female? for this cauſe ſhall a man leave father and mother, and ſhall cleave to his wife, and they twaine</hi> (not they three or they foure, <hi>but they twaine) ſhall bee one fleſh.</hi> 
+                  <note n="z" place="margin">Mat. 19. 3. 5.</note> Anſwerably the Apoſtles advice is, <hi>for the avoyding of fornication, that every man ſhould have his owne wife,</hi> (not wives) <hi>and every woman her owne husband,</hi> (not husbands.) <note n="a" place="margin">1 Cor. 7. 2.</note>
+               </p>
+               <p>And when the Apoſtle gives thoſe cautions concerning ſuch who were to be choſen into the office of a Biſhop or Deacon, <hi>viz.</hi> that they ſhould be men that had <hi>but one wife, as</hi> well as men that were <hi>not given to wine, nor ſtrikers, nor greedy of filthy lucre;</hi> 
+                  <note n="b" place="margin">1 Tim. 3. 2, 3. Tit. 1. 6.</note> undoubtedly, he accounted the one as well as the other a blot and matter of diſhonour, otherwiſe he would never have put it in the number of thoſe things whereof he made matter of exception in the election of ſuch Officers.</p>
+               <p>And when our Lord Jeſus Chriſt (who is Truth it ſelfe) ut<g ref="char:EOLhyphen"/>red<note place="margin">
+                     <hi>c</hi> Matth. 16. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> this grave ſaying, <hi>Whoſoever ſhall put away his wife, except it
+<pb n="12" facs="tcp:43452:8"/>
+be for fornication, and ſhall marry another, committeth adultery,</hi> he had not ſaid true but upon this ſuppoſition, that a man commits whoredom with what ever woman he ſhall marry over and be<g ref="char:EOLhyphen"/>ſides that one wife unto which he hath firſt joyned himſelfe, the bands of that Conjunction not being diſſolved. For other<g ref="char:EOLhyphen"/>wiſe his putting away a former wife injuriouſly could no wiſe diſable him from marrying a later. For can a mans doing one unlawfull act make him uncapable of doing another act that's lawfull? And therefore as all other words of the lips of Jeſus Chriſt, which continually dropp'd wiſedom and grace, are dear and precious to us, ſo theſe alſo have taken hold of our hearts ſo, as to cauſe us to abominate the very opinion, and how much more the practice of Polygamy, as riſing up in oppoſition againſt them!</p>
+            </div>
+            <div type="part">
+               <p>Thus having ſhaken off thoſe Vipers of calumnie and re<g ref="char:EOLhyphen"/>proach, which ſome unworthily have laboured to faſten upon us; and having cleared our own innocency both before Angles and men, as touching thoſe things whereof either in whole or in part we have been either accuſed or ſuſpected by malevolent men: our hope is, that all men (except thoſe that have joyned themſelves in a confederacie with Hell, and have ſtrucke hands with the Devil, as being reſolved with him <hi>to accuſe the brethren</hi>) into whoſe hands this ingenuous and ſolemn Declaration of our ſelves ſhall come, will both perceive and believe, that wee are no friends or favourers either of thoſe unrighteous wayes againſt which we have now declared more particularly, or of any other <hi>thing that is contrary to wholeſome Doctrine.</hi>
+                  <note n="d" place="margin">1 Tim. 1. 10.</note>
+               </p>
+               <p>For ſo farre are we from patronizing or tolerating any thing of this nature, that our earneſt deſire is, that the Magi<g ref="char:EOLhyphen"/>ſtrate into whoſe hand the ſword of juſtice is put, may draw it out impartially againſt all thoſe whether pretenders, or not pretenders to any ſtrictneſſe in Religion, that doe in word or deed diſturbe the Civil peace of the Land, in doing or ſpeaking things deſtructive to the honour, ſafety or intereſts of men, in body, name or goods.</p>
+               <p>And our unfained deſire likewiſe is, that wee with all other men, and all other men with us, may <hi>by pureneſſe, by knowledge, by long-ſuffering, by kindneſſe, by the Holy Ghoſt, by love unfained, by the
+<pb n="13" facs="tcp:43452:8"/>
+word of truth, by the power of God, by the armour of righteouſneſſe, on the right hand and on the left</hi> 
+                  <note n="e" place="margin">2 Cor. 6. 6. 7.</note> oppoſe and contend againſt all un<g ref="char:EOLhyphen"/>righteouſneſſe of men, and what ever in them, either in opini<g ref="char:EOLhyphen"/>on or converſation riſes up againſt the honour of the Coſpell, and the well-being of men. That ſo the civill and externall peace of men may by the ſword of the Magiſtrate be ſecured on the one hand, and their ſpirituall and internall peace effected, maintained and defended by the ſword of the Spirit on the o<g ref="char:EOLhyphen"/>ther hand, from ſuffering by the hands of thoſe <hi>fleſhly luſts,</hi> crooked and perverſe imaginations <hi>which war againſt the ſoule</hi> 
+                  <note n="f" place="margin">1 Pet. 2 11.</note>
+               </p>
+               <p>The high and honourable advancement of which peace of men in both kinds, ſhall through the helpe of the moſt High, be the ſubject matter of our ſtudies, labours and prayers, du<g ref="char:EOLhyphen"/>ring our pilgrimage on earth, that God in all things may bee glorified through Jeſus Chriſt; to whom be praiſe in all the Churches of the Saints. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
